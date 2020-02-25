@@ -1,0 +1,1 @@
+Esto es una prueba de test.txt para que lo copie en el directorio de desinstalacion
